@@ -1,1 +1,1 @@
-# knack-study-planner-integration.js
+# knack-study-apps
