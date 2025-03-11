@@ -14,7 +14,7 @@ const FLASHCARD_APP_CONFIG = {
     'view_3005': { // Your rich text field view ID
       appType: 'flashcard-app',
       elementSelector: '.kn-rich-text', // Target element to mount the app
-      appUrl: 'https://vespa-flashcards.herokuapp.com/' // Your Heroku app URL (update this)
+      appUrl: 'https://vespaflashcards-50af4a5d150b.herokuapp.com/' // Your Heroku app URL (update this)
     }
   }
 };
